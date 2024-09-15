@@ -1,7 +1,7 @@
 # Creating an RAG application with Milvus, LlamaIndex and PII Modules 🧑‍✈️
 
 <p align="center">
-<img width="737" alt="cover" src="https://github.com/user-attachments/assets/1478b1fe-e436-41f0-8d65-dff2c6cb84a8">
+<img width="737" alt="cover" src="https://github.com/user-attachments/assets/146ace1e-706e-4ec5-851c-dbfff55e0d9b">
 </p>
 
 This repository contains a notebook with an agentic RAG application using Milvus, LlamaIndex and PII (Personally Identifiable Information) modules.
