@@ -1,4 +1,4 @@
-# Creating an RAG application with Milvus, LlamaIndex and PII Modules 🧑‍✈️
+# Creating an RAG application with Milvus, LlamaIndex and PII Modules
 
 <p align="center">
 <img width="737" alt="cover" src="https://github.com/user-attachments/assets/146ace1e-706e-4ec5-851c-dbfff55e0d9b">
